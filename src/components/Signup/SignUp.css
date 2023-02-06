@@ -1,0 +1,31 @@
+.login-box {
+    display: flex;
+    flex-direction: row;
+    height: 100vh;
+}
+
+
+.image-box {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 65%;
+    height: 100%;
+    background-color: #00000005;
+    ;
+
+}
+
+
+.form-box {
+    width: 35%;
+    
+}
+
+.heading-box{
+
+}
+
+.form-box{
+
+}
